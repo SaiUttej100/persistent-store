@@ -1,0 +1,22 @@
+{
+  "name": "@uttej/persistent-store",
+  "version": "1.0.0",
+  "description": "Get and set request-scoped context anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B SAI UTTEJ",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.15"
+  },
+  "keywords": [
+    "request",
+    "context"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaiUttej100/persistent-store.git"
+  }
+}
